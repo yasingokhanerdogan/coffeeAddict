@@ -1,3 +1,1 @@
-# coffeeAddictProject
-
-https://yasingokhanerdogan.github.io/coffeeAddict/
+# https://yasingokhanerdogan.github.io/coffeeAddict/
